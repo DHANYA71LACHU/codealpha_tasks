@@ -44,7 +44,6 @@ df = pd.DataFrame(data)
 
 # Save files
 df.to_csv("Spike_Protein_Dataset.csv", index=False)
-df.to_excel("Spike_Protein_Dataset.xlsx", index=False)
 
 print("Dataset saved successfully!\n")
 print(df)
