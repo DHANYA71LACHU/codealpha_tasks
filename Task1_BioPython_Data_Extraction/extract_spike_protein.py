@@ -1,4 +1,4 @@
-                from Bio import Entrez, SeqIO
+from Bio import Entrez, SeqIO
 import pandas as pd
 
 # Enter your email (required by NCBI)
