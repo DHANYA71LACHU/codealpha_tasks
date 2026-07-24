@@ -93,7 +93,7 @@ The generated dataset can be used for:
 
 ## Author
 
-**Dhanyalakshmi**
+**V Dhanyalakshmi**
 
 M.Sc. Bioinformatics
 
