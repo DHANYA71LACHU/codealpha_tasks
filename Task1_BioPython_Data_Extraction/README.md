@@ -76,7 +76,6 @@ The script generates:
 
 - `Protein_Dataset.csv`
 
-This dataset is used in **Task 2: Exploratory Data Analysis (EDA).**
 
 ---
 
