@@ -117,7 +117,7 @@ The dataset can be further utilized for:
 
 ## Author
 
-**Dhanyalakshmi**
+**V Dhanyalakshmi**
 
 M.Sc. Bioinformatics
 
