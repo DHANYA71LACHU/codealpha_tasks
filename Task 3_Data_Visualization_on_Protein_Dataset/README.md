@@ -138,7 +138,7 @@ The visualizations developed in this project can support:
 
 ## Author
 
-**Dhanyalakshmi**
+**V Dhanyalakshmi**
 
 M.Sc. Bioinformatics
 
