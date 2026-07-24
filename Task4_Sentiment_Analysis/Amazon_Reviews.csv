@@ -1,0 +1,151 @@
+Review_ID,Review_Text,Rating,Expected_Sentiment
+1,Very satisfied with the performance.,4,Positive
+2,"It's okay, nothing special.",3,Neutral
+3,Great value for money.,4,Positive
+4,The product stopped working after one day.,1,Negative
+5,Fast delivery and excellent packaging.,5,Positive
+6,I love this product. It works perfectly.,5,Positive
+7,Highly durable and reliable.,4,Positive
+8,The product matches the description.,3,Neutral
+9,Amazing purchase. Exceeded my expectations.,4,Positive
+10,Amazing purchase. Exceeded my expectations.,4,Positive
+11,Great value for money.,5,Positive
+12,"Excellent product, highly recommended!",4,Positive
+13,Completely dissatisfied with this purchase.,2,Negative
+14,Not as described.,2,Negative
+15,Very satisfied with the performance.,4,Positive
+16,Poor packaging and damaged item.,2,Negative
+17,Great value for money.,5,Positive
+18,Very good quality and worth the price.,4,Positive
+19,The product is defective.,1,Negative
+20,Fantastic quality and easy to use.,4,Positive
+21,Great value for money.,4,Positive
+22,Delivery was acceptable.,3,Neutral
+23,Poor packaging and damaged item.,2,Negative
+24,It works as expected.,3,Neutral
+25,Fantastic quality and easy to use.,4,Positive
+26,I love this product. It works perfectly.,4,Positive
+27,It works as expected.,3,Neutral
+28,Highly durable and reliable.,5,Positive
+29,Very satisfied with the performance.,4,Positive
+30,Delivery was acceptable.,3,Neutral
+31,Fast delivery and excellent packaging.,4,Positive
+32,Fantastic quality and easy to use.,4,Positive
+33,No major issues so far.,3,Neutral
+34,Very disappointed with the quality.,2,Negative
+35,The product arrived on time.,3,Neutral
+36,Terrible experience. Would not recommend.,1,Negative
+37,Delivery was acceptable.,3,Neutral
+38,Fantastic quality and easy to use.,5,Positive
+39,Five stars. Will definitely buy again.,5,Positive
+40,Delivery was acceptable.,3,Neutral
+41,"Excellent product, highly recommended!",4,Positive
+42,Highly durable and reliable.,4,Positive
+43,Delivery was acceptable.,3,Neutral
+44,Amazing purchase. Exceeded my expectations.,5,Positive
+45,Very satisfied with the performance.,5,Positive
+46,Not as described.,1,Negative
+47,The item functions normally.,3,Neutral
+48,Customer service was unhelpful.,2,Negative
+49,"It's okay, nothing special.",3,Neutral
+50,Very satisfied with the performance.,5,Positive
+51,Not as described.,1,Negative
+52,The product arrived on time.,3,Neutral
+53,Customer service was unhelpful.,1,Negative
+54,Customer service was unhelpful.,1,Negative
+55,Completely dissatisfied with this purchase.,1,Negative
+56,Bad quality and overpriced.,2,Negative
+57,Average quality for the price.,3,Neutral
+58,Highly durable and reliable.,5,Positive
+59,Very satisfied with the performance.,4,Positive
+60,"Excellent product, highly recommended!",4,Positive
+61,The product stopped working after one day.,1,Negative
+62,The product matches the description.,3,Neutral
+63,The product is defective.,2,Negative
+64,Terrible experience. Would not recommend.,1,Negative
+65,The product arrived on time.,3,Neutral
+66,I love this product. It works perfectly.,5,Positive
+67,Bad quality and overpriced.,2,Negative
+68,Very good quality and worth the price.,4,Positive
+69,"Excellent product, highly recommended!",5,Positive
+70,Five stars. Will definitely buy again.,4,Positive
+71,Delivery was acceptable.,3,Neutral
+72,Waste of money.,1,Negative
+73,"It's okay, nothing special.",3,Neutral
+74,I love this product. It works perfectly.,4,Positive
+75,Fantastic quality and easy to use.,4,Positive
+76,"It's okay, nothing special.",3,Neutral
+77,Highly durable and reliable.,4,Positive
+78,Highly durable and reliable.,5,Positive
+79,I love this product. It works perfectly.,5,Positive
+80,Fantastic quality and easy to use.,5,Positive
+81,Fast delivery and excellent packaging.,4,Positive
+82,Standard product with basic features.,3,Neutral
+83,The product is defective.,2,Negative
+84,Fast delivery and excellent packaging.,5,Positive
+85,The product arrived on time.,3,Neutral
+86,Waste of money.,1,Negative
+87,The item functions normally.,3,Neutral
+88,Bad quality and overpriced.,1,Negative
+89,Five stars. Will definitely buy again.,4,Positive
+90,I love this product. It works perfectly.,5,Positive
+91,Average quality for the price.,3,Neutral
+92,It works as expected.,3,Neutral
+93,Very good quality and worth the price.,4,Positive
+94,Great value for money.,4,Positive
+95,"Excellent product, highly recommended!",4,Positive
+96,Amazing purchase. Exceeded my expectations.,4,Positive
+97,Highly durable and reliable.,4,Positive
+98,The product is defective.,1,Negative
+99,Very disappointed with the quality.,1,Negative
+100,The product matches the description.,3,Neutral
+101,Amazing purchase. Exceeded my expectations.,4,Positive
+102,Bad quality and overpriced.,1,Negative
+103,Fantastic quality and easy to use.,4,Positive
+104,Five stars. Will definitely buy again.,5,Positive
+105,Waste of money.,1,Negative
+106,Highly durable and reliable.,5,Positive
+107,Fantastic quality and easy to use.,4,Positive
+108,Highly durable and reliable.,5,Positive
+109,No major issues so far.,3,Neutral
+110,Fast delivery and excellent packaging.,5,Positive
+111,Highly durable and reliable.,4,Positive
+112,Five stars. Will definitely buy again.,4,Positive
+113,Great value for money.,4,Positive
+114,Very good quality and worth the price.,5,Positive
+115,The product stopped working after one day.,2,Negative
+116,Very satisfied with the performance.,5,Positive
+117,"It's okay, nothing special.",3,Neutral
+118,Great value for money.,5,Positive
+119,I love this product. It works perfectly.,5,Positive
+120,Bad quality and overpriced.,1,Negative
+121,The product is defective.,2,Negative
+122,Very disappointed with the quality.,2,Negative
+123,Fantastic quality and easy to use.,4,Positive
+124,Fast delivery and excellent packaging.,4,Positive
+125,Average quality for the price.,3,Neutral
+126,Poor packaging and damaged item.,1,Negative
+127,Highly durable and reliable.,5,Positive
+128,Fast delivery and excellent packaging.,4,Positive
+129,Fast delivery and excellent packaging.,4,Positive
+130,The product stopped working after one day.,1,Negative
+131,I love this product. It works perfectly.,5,Positive
+132,Fast delivery and excellent packaging.,5,Positive
+133,It works as expected.,3,Neutral
+134,Highly durable and reliable.,5,Positive
+135,Great value for money.,5,Positive
+136,"It's okay, nothing special.",3,Neutral
+137,Fantastic quality and easy to use.,5,Positive
+138,Amazing purchase. Exceeded my expectations.,4,Positive
+139,Amazing purchase. Exceeded my expectations.,5,Positive
+140,Amazing purchase. Exceeded my expectations.,5,Positive
+141,Bad quality and overpriced.,1,Negative
+142,Very satisfied with the performance.,4,Positive
+143,Very satisfied with the performance.,4,Positive
+144,Highly durable and reliable.,4,Positive
+145,The product arrived on time.,3,Neutral
+146,Customer service was unhelpful.,1,Negative
+147,The product is defective.,1,Negative
+148,"Excellent product, highly recommended!",5,Positive
+149,Amazing purchase. Exceeded my expectations.,5,Positive
+150,Fast delivery and excellent packaging.,5,Positive
