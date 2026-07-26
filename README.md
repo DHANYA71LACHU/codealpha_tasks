@@ -1,2 +1,2 @@
-# codealpha_tasks
-CodeAlpha - Data Analytics Internship Tasks
+# CodeAlpha - Data Analytics Internship Tasks
+CodeAlpha -Tasks
